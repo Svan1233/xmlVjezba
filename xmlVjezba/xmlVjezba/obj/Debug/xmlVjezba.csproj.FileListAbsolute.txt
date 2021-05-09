@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\xmlVjezba\xmlVjezba\bin\Debug\xmlVjezba.exe.config
+C:\Users\Korisnik\source\repos\xmlVjezba\xmlVjezba\bin\Debug\xmlVjezba.exe
+C:\Users\Korisnik\source\repos\xmlVjezba\xmlVjezba\bin\Debug\xmlVjezba.pdb
+C:\Users\Korisnik\source\repos\xmlVjezba\xmlVjezba\obj\Debug\xmlVjezba.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\xmlVjezba\xmlVjezba\obj\Debug\xmlVjezba.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\xmlVjezba\xmlVjezba\obj\Debug\xmlVjezba.exe
+C:\Users\Korisnik\source\repos\xmlVjezba\xmlVjezba\obj\Debug\xmlVjezba.pdb
